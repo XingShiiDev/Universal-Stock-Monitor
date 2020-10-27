@@ -1,0 +1,13 @@
+C:\Users\Carter\source\repos\Universal Monitor\Universal Monitor\bin\Release\Universal Monitor.exe.config
+C:\Users\Carter\source\repos\Universal Monitor\Universal Monitor\bin\Release\Universal Monitor.exe
+C:\Users\Carter\source\repos\Universal Monitor\Universal Monitor\bin\Release\Universal Monitor.pdb
+C:\Users\Carter\source\repos\Universal Monitor\Universal Monitor\bin\Release\Leaf.xNet.xml
+C:\Users\Carter\source\repos\Universal Monitor\Universal Monitor\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Carter\source\repos\Universal Monitor\Universal Monitor\obj\Release\Universal_Monitor.Form1.resources
+C:\Users\Carter\source\repos\Universal Monitor\Universal Monitor\obj\Release\Universal_Monitor.Properties.Resources.resources
+C:\Users\Carter\source\repos\Universal Monitor\Universal Monitor\obj\Release\Universal Monitor.csproj.GenerateResource.cache
+C:\Users\Carter\source\repos\Universal Monitor\Universal Monitor\obj\Release\Universal Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Carter\source\repos\Universal Monitor\Universal Monitor\obj\Release\Universal Monitor.csproj.Fody.CopyLocal.cache
+C:\Users\Carter\source\repos\Universal Monitor\Universal Monitor\obj\Release\Universal Monitor.csproj.CopyComplete
+C:\Users\Carter\source\repos\Universal Monitor\Universal Monitor\obj\Release\Universal Monitor.exe
+C:\Users\Carter\source\repos\Universal Monitor\Universal Monitor\obj\Release\Universal Monitor.pdb
